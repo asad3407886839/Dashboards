@@ -1,0 +1,11 @@
+/* src/index.css */
+input, select {
+    background-color: #F4F6F8;
+    border: none;
+  }
+  
+  input:focus, select:focus {
+    border: none;
+ /* Ensuring the background color remains the same on focus */
+  }
+  
